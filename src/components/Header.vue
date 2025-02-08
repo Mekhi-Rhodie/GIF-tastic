@@ -2,7 +2,7 @@
     <header class="container rounded">
         <span class="row">
             <h1 class="display-1">GIF-tastic!</h1>
-            <span class="auth-button-group">
+            <span class="auth-button-group float-sm-end">
                 <button class="auth-btn btn btn-primary">Login</button>
                 <button class="auth-btn btn btn-secondary">Register</button>
             </span>
@@ -13,7 +13,7 @@
 <style scoped>
     header {
         background-image: linear-gradient(to left,#00E682, #0D6EFD, #7B11D8);
-        border: 2px solid #131416;
+        border: 2px solid #D3D7DA;
     }
 </style>
 
